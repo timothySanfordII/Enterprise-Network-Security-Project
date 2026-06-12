@@ -3,3 +3,4 @@
 - Oracle VM VirtualBox
 - OPNSense Firewall
 - Kali Linux
+- Filezilla
