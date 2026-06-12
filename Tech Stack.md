@@ -4,3 +4,4 @@
 - OPNSense Firewall
 - Kali Linux
 - Filezilla
+- Suricata
