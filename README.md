@@ -12,4 +12,4 @@ The lab demonstrates:
 - Attack simulation
 - Incident investigation
 
-The environment was built in VirtualBox and documented as a portfolio project for Network Security Analyst.
+The environment was built in VirtualBox and documented as a portfolio project for Network Security roles.
