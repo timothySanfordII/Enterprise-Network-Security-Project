@@ -6,6 +6,7 @@ YouTube Channels:
  - KSk Royal - How to Install Kali Linux on VirtualBox (2026) | Complete Step-by-Step Guide
  - Inno TechTips - Configure Static IP Address and DNS on Kali Linux
  - Tech Support Whale - Step by Step Guide to Take Snapshot & Restore in VirtualBox Virtual Machine | Tech Support Whale
+ - FixSoft - How to Install Windows 11 in VirtualBox | Windows on Virtual Box (Complete Guide)
 
 Google
 ---
