@@ -5,3 +5,4 @@
 - Kali Linux
 - Filezilla
 - Suricata
+- Windows 10
