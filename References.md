@@ -8,6 +8,7 @@ YouTube Channels:
  - Tech Support Whale - Step by Step Guide to Take Snapshot & Restore in VirtualBox Virtual Machine | Tech Support Whale
  - FixSoft - How to Install Windows 11 in VirtualBox | Windows on Virtual Box (Complete Guide)
  - TheHowToGuy123 - How To Install Windows 10 In Virtual Box
+ - Peyman Tech Media - How to Configure Internal Network Between Virtual Machines in VirtualBox | Static IP Address
 
 Google
 ---
