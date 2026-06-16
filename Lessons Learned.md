@@ -1,9 +1,20 @@
 # Lessons Learned
 Initial Configuration
 ---
-   - Statically assigning IP address to virtual machine within Terminal
+### 1
+   - Statically assigned IP address to virtual machine within Terminal
 <img width="1895" height="1064" alt="command to change static IP" src="https://github.com/user-attachments/assets/2776723f-81e1-452f-a9cb-fe0138c96890" />
 <img width="1904" height="1067" alt="kali linux network statically assign IP" src="https://github.com/user-attachments/assets/6be74ed2-59db-4949-93e3-3122ed3ac9f7" />
+
+### 2
+   - Ran into issues installing Windows 11, I kept getting stuck in the shell and trying to upload the Windows 11 iso
+   - After researching my issue, realized too much time was being spent on installing Windows machine and opted to use Windows 10 instead
+   - Able to create Windows 10 machine without issue
+   - Learned how to statically assign IP address to Windows machine
+<img width="905" height="759" alt="change static IP p1" src="https://github.com/user-attachments/assets/1099cf52-596d-4334-b1dc-3f97ec7fbec7" />
+<img width="940" height="772" alt="change static IP p2" src="https://github.com/user-attachments/assets/9fca119e-a46d-473d-b8f1-b8db45e3181f" />
+<img width="989" height="856" alt="change static IP p3" src="https://github.com/user-attachments/assets/e66ca016-298d-47a6-a4bd-bce42463a204" />
+<img width="847" height="722" alt="change static IP p4" src="https://github.com/user-attachments/assets/6e26b4c4-bb6e-43d1-ae6e-45f8a949450b" />
 
 nmap scan IDS lab
 ---
