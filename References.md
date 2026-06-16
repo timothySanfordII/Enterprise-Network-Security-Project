@@ -7,7 +7,7 @@ YouTube Channels:
  - Inno TechTips - Configure Static IP Address and DNS on Kali Linux
  - Tech Support Whale - Step by Step Guide to Take Snapshot & Restore in VirtualBox Virtual Machine | Tech Support Whale
  - FixSoft - How to Install Windows 11 in VirtualBox | Windows on Virtual Box (Complete Guide)
- - Quick Point Tech - How to Install & Run Windows 10 in Virtual Box 2025!
+ - TheHowToGuy123 - How To Install Windows 10 In Virtual Box
 
 Google
 ---
