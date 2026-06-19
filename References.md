@@ -16,3 +16,5 @@ opnsense.org
 ---
 https://docs.suricata.io/en/suricata-6.0.0/rules/index.html
 ---
+https://dsi.ut-capitole.fr/blacklists/index_en.php
+---
