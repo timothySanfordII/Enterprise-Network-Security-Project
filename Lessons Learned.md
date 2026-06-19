@@ -16,7 +16,7 @@ Initial Configuration
 <img width="989" height="856" alt="change static IP p3" src="https://github.com/user-attachments/assets/e66ca016-298d-47a6-a4bd-bce42463a204" />
 <img width="847" height="722" alt="change static IP p4" src="https://github.com/user-attachments/assets/6e26b4c4-bb6e-43d1-ae6e-45f8a949450b" />
 
-nmap scan IDS lab
+Nmap Scan IDS lab
 ---
 ### 1
 
@@ -41,3 +41,28 @@ nmap scan IDS lab
  - Implemented use of snapshots in VirtualBox
 
 <img width="857" height="600" alt="example of taking a vm snapshot" src="https://github.com/user-attachments/assets/2b271791-af08-4fc9-a70a-3c713171f17a" />
+
+Squid Web Proxy lab
+---
+### 1
+Had to upgrade OPNSense from 26.1.6 to 26.1.10 in order to install Squid Web Proxy
+<img width="1919" height="1079" alt="updated opnsense from 26-1-6 to 26-1-10" src="https://github.com/user-attachments/assets/4b98862e-cb0e-46c2-ad3e-7d6325109450" />
+<img width="1896" height="1023" alt="updated opnsense from 26-1-6 to 26-1-10 p2" src="https://github.com/user-attachments/assets/e52b633b-b6f2-4d5e-a67d-14bcfff96e01" />
+
+### 2
+
+- Initially unable to receive any HTTPS traffic following creation of Transparancy Firewall rules
+- Realized I had assigned port 3128 for both HTTP and HTTPS traffic
+- Set 3128 for HTTP traffic and 3129 for HTTPS traffic, Squid Web Proxy then worked as intended
+<img width="1919" height="1079" alt="Issue 1" src="https://github.com/user-attachments/assets/e0d0fa10-b39d-464d-b2c1-44f0eb618b0a" />
+<img width="1919" height="1079" alt="Created firewall rule for transparancy proxy p4 for https" src="https://github.com/user-attachments/assets/85b4fd1b-33b2-41c7-88a9-c64cfeb29821" />
+<img width="1915" height="1077" alt="changed portforwarding firewall to forward to 3129 to match squid proxy - resolved error" src="https://github.com/user-attachments/assets/5d1b6a24-d741-4b5e-aff5-6cca1b31f0cd" />
+
+
+
+
+
+
+
+
+
