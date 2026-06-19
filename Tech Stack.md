@@ -6,3 +6,4 @@
 - Filezilla
 - Suricata
 - Windows 10
+- Squid Web Proxy
