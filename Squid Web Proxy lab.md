@@ -85,7 +85,8 @@ Confirmed able to access Youtube (non-social media site). Confirmed access to Fa
 <img width="1919" height="1079" alt="able to access youtube" src="https://github.com/user-attachments/assets/8480e604-e252-4d93-a5fb-95f955706a4d" />
 <img width="1919" height="1079" alt="not able to access Facebook - like intended" src="https://github.com/user-attachments/assets/4d5e0f06-66bd-4c32-ad81-13c81458f99b" />
 
-
+---
+# See "Lessions Learned.md" for troubleshooting needed during lab
 
 
 
