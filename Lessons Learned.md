@@ -7,7 +7,7 @@ Initial Configuration
 <img width="1904" height="1067" alt="kali linux network statically assign IP" src="https://github.com/user-attachments/assets/6be74ed2-59db-4949-93e3-3122ed3ac9f7" />
 
 ### 2
-   - Ran into issues installing Windows 11, I kept getting stuck in the shell and trying to upload the Windows 11 iso
+   - Ran into issues installing Windows 11, I kept getting stuck in the shell when trying to upload the Windows 11 iso
    - After researching my issue, realized too much time was being spent on installing Windows machine and opted to use Windows 10 instead
    - Able to create Windows 10 machine without issue
    - Learned how to statically assign IP address to Windows machine
