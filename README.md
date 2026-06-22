@@ -12,4 +12,6 @@ The lab demonstrates:
 - Attack simulation
 - Incident investigation
 
+Special shout out to "LS111 Cyber Security Education" channel on YouTube, serving as the primary source of reference
+
 The environment was built in VirtualBox and documented as a portfolio project for Network Security roles.
