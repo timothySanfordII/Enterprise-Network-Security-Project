@@ -2,7 +2,7 @@
 
 This project simulates an enterprise network security environment using OPNsense, Ubuntu, Windows, Kali Linux, and Elastic Monitoring.
 
-The lab demonstrates:
+### The lab demonstrates:
 
 - Network segmentation
 - Firewall policy enforcement
@@ -11,5 +11,13 @@ The lab demonstrates:
 - Threat detection
 - Attack simulation
 - Incident investigation
+
+---
+
+### This repository consists of several labs including:
+- Nmap Scan IDS
+- Squid Web Proxy
+
+---
 
 The environment was built in VirtualBox and documented as a portfolio project for Network Security roles.
