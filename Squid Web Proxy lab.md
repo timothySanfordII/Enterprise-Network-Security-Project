@@ -1,5 +1,5 @@
 # Squid Web Proxy Lab
-In this lab, I ...
+### In this lab, I ...
   - Created a self-signed trust certificate for the OPNSense firewall and installed it on the Windows 10 machine
   - Installed Squid Web Proxy as a pluggin to OPNSense
   - Created Firewall Transparency rules for HTTP and HTTPS traffic
