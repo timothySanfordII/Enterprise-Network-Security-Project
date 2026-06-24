@@ -1,5 +1,5 @@
 # Nmap Scan Detection Lab
-In this lab, I ...
+### In this lab, I ...
   - Enabled the IDS for the OPNsense firewall
   - Wrote an alert firewall rule on the Kali Linux VM
   - Uploaded that rule to the OPNsense firewall via Filezilla
