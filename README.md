@@ -1,8 +1,8 @@
-# Enterprise-Network-Security-Lab
+# Enterprise-Network-Security-Project
 
 This project simulates an enterprise network security environment using OPNsense, Ubuntu, Windows, Kali Linux, and Elastic Monitoring.
 
-### The lab demonstrates:
+### The Project demonstrates:
 
 - Network segmentation
 - Firewall policy enforcement
