@@ -17,6 +17,7 @@ This project simulates an enterprise network security environment using OPNsense
 ### This repository consists of several labs including:
 - Nmap Scan IDS
 - Squid Web Proxy
+- High Availability 
 
 ---
 
