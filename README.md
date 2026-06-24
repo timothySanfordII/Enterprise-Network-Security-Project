@@ -2,7 +2,7 @@
 
 This project simulates an enterprise network security environment using OPNsense, Ubuntu, Windows, Kali Linux, and Elastic Monitoring.
 
-### The Project demonstrates:
+### This project demonstrates:
 
 - Network segmentation
 - Firewall policy enforcement
