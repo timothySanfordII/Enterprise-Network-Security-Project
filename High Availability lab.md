@@ -107,7 +107,7 @@ Step 12
 <img width="1917" height="1079" alt="shows 10-200-200-254 stayed reachable as backup stayed on and master became unreachable" src="https://github.com/user-attachments/assets/8ed2f227-d8c9-4da1-9a7a-cec06a115efc" />
 
 ---
-# Did not need to troubleshoot any errors for this lab
+# Did not need to troubleshoot any errors for this lab, nothing to add to Lessons Learned.md
 
 
 
