@@ -4,7 +4,6 @@ This project simulates an enterprise network security environment using OPNsense
 
 ### This project demonstrates:
 
-- Network segmentation
 - Firewall policy enforcement
 - Security monitoring
 - Centralized log collection
