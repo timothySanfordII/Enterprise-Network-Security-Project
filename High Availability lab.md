@@ -1,4 +1,4 @@
-# High Availability Lab
+# Firewall High Availability Lab
 ### In this lab, I ...
   - Cloned the OPNSense Firewall, creating Master Firewall vm and Backup Firewall vm
   - Configured both Firewall vms with different LAN IP addresses in 10.200.200.0 network
