@@ -10,7 +10,6 @@ This project simulates an enterprise network security environment using OPNsense
 - Centralized log collection
 - Threat detection
 - Attack simulation
-- Incident investigation
 
 ---
 
