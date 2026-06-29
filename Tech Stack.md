@@ -7,3 +7,4 @@
 - Suricata
 - Windows 10
 - Squid Web Proxy
+- Zenarmor
