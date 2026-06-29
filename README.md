@@ -17,7 +17,7 @@ This project simulates an enterprise network security environment using OPNsense
 - Nmap Scan IDS
 - Squid Web Proxy
 - Firewall High Availability
-- Zenarmor
+- Zenarmor NGFW
 
 ---
 
