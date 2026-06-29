@@ -58,7 +58,13 @@ Had to upgrade OPNSense from 26.1.6 to 26.1.10 in order to install Squid Web Pro
 <img width="1919" height="1079" alt="Created firewall rule for transparancy proxy p4 for https" src="https://github.com/user-attachments/assets/85b4fd1b-33b2-41c7-88a9-c64cfeb29821" />
 <img width="1915" height="1077" alt="changed portforwarding firewall to forward to 3129 to match squid proxy - resolved error" src="https://github.com/user-attachments/assets/5d1b6a24-d741-4b5e-aff5-6cca1b31f0cd" />
 
-
+Zenarmor NGFW lab
+---
+   - Encountered error when trying to initiate Zenarmor ~ "Please disable interface Harware Offloadings"
+   - Had to disable hardware checksum offload, hardware TCP segmentation offload, and hardware large receive offload
+<img width="1919" height="1079" alt="zenarmor dashboard setup p4" src="https://github.com/user-attachments/assets/40a0a5ac-554e-49d5-82d9-b01f9753e640" />
+<img width="1919" height="1079" alt="disabled top 3 in interfaces settings to resolve last error message" src="https://github.com/user-attachments/assets/d1c5b7d2-ddac-407a-a940-0b2a9fe6e017" />
+<img width="1919" height="1079" alt="zenarmor dashboard setup p4-5" src="https://github.com/user-attachments/assets/81e07111-40e4-4a1c-8d83-ac8242d9ab01" />
 
 
 
