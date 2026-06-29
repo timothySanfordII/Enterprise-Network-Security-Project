@@ -1,6 +1,6 @@
 # Enterprise-Network-Security-Project
 
-This project simulates an enterprise network security environment using OPNsense, Ubuntu, Windows, Kali Linux, and Elastic Monitoring.
+This project simulates an enterprise network security environment using OPNsense, Windows, Kali Linux, Squid Web Proxy, and Zenarmor.
 
 ### This project demonstrates:
 
@@ -17,7 +17,8 @@ This project simulates an enterprise network security environment using OPNsense
 ### This repository consists of several labs including:
 - Nmap Scan IDS
 - Squid Web Proxy
-- High Availability 
+- High Availability
+- Zenarmor
 
 ---
 
